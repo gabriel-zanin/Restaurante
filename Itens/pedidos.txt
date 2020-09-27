@@ -1,0 +1,2 @@
+LISTA DE PEDIDOS - RESTAURANTE PRATO FUNDO
+Código do pedido: 1  =      Prato:Tutu de feijão Preço R$: 6,70      Bebida:Limonada Preço R$: 4,50	Total do pedido R$: 11,20	Observação: Desculpe
